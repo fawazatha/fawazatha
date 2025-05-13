@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/fawazatha/fawazatha/blob/main/background.jpg" alt="image" width="200"/>
+  <img src="https://github.com/fawazatha/fawazatha/blob/main/background.jpg" alt="image" width="1000"/>
   <h1>Hi there 👋 I'm Fawwaz Atha Rohmatullah</h1>
 </div>
 
