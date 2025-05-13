@@ -36,9 +36,8 @@
 
 ### Let's Connect!
 
-* [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/>]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/fawwaz-atha-rohmatullah-6ab2b2262/))
-* [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="20"/>]([YOUR_KAGGLE_PROFILE_URL](https://www.kaggle.com/clayton21))
+* [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/>]([https://www.linkedin.com/in/fawwaz-atha-rohmatullah-6ab2b2262/])
+* [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="20"/>]([https://www.kaggle.com/clayton21])
 
 ---
 
-⭐️ From (https://github.com/fawazatha)
