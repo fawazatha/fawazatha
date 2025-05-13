@@ -29,6 +29,8 @@
 ![LangChain](https://img.shields.io/badge/LangChain-087F23?style=for-the-badge&logo=langchain&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-555555?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Unsloth](https://img.shields.io/badge/Unsloth-FF8000-orange?style=for-the-badge)
 
 ---
 
