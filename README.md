@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  Passionate about Machine Learning, with a deep dive into the world of <strong>Computer Vision</strong> 👁️.
+  Passionate about Machine Learning, with a deep dive into the world of <strong>Computer Vision</strong> 👁️
 </p>
 
 ---
