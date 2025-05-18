@@ -14,6 +14,7 @@
 * Exploring cutting-edge CV models and techniques
 * Applying ML to real-world visual problems
 * Building and experimenting with deep learning architectures
+* Orchestration with LLM 
 
 ### 🌱 I'm currently learning
 
