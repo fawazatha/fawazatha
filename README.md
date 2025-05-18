@@ -17,7 +17,8 @@
 
 ### 🌱 I'm currently learning
 
-* Computer Vision Algorithm
+* Tackling OpenAI to Z Challenge Kaggle Competition
+* Computer Vision Algorithm (Paused)
 
 ### 🛠️ Skills
 
