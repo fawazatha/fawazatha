@@ -16,11 +16,6 @@
 * Building and experimenting with deep learning architectures
 * Orchestration with LLM 
 
-### 🌱 I'm currently learning
-
-* Tackling OpenAI to Z Challenge Kaggle Competition
-* Computer Vision Algorithm
-
 ### 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
