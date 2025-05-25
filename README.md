@@ -9,13 +9,6 @@
 
 ---
 
-### 🔭 My Research/Interests
-
-* Exploring cutting-edge CV models and techniques
-* Applying ML to real-world visual problems
-* Building and experimenting with deep learning architectures
-* Orchestration with LLM 
-
 ### 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
